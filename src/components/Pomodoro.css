@@ -1,0 +1,33 @@
+.pomodoroContainer {
+    margin: 0 auto;
+    padding: 20px 0;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    margin: 20px 0;
+    font-size: 120px;
+    color: white;
+    text-align: center;
+}
+.timerButton {
+    background: none rgba(0, 0, 0, 0.15);
+    color: white;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+.startBtn {
+    padding: 12px;
+    font-weight: bold;
+    font-size: 22px;
+    background-color: white;
+    box-shadow: rgb(235 235 235) 0px 6px 0px;
+    align-self: center;
+    width: 50%;
+    border: none;
+    color: rgb(217, 85, 80);
+    margin-bottom: 10px;
+}
